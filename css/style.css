@@ -1604,7 +1604,7 @@ img {
     background-image: url("../img/download/iphone-hand-mobile@2x.png");
   }
   .advantages__block-wrapper {
-    background-image: url("/img/advantages/iphone-screen-mobile@2x.png");
+    background-image: url("../img/advantages/iphone-screen-mobile@2x.png");
   }
 }
 @media (min-width: 680px) {
